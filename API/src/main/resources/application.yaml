@@ -1,0 +1,4 @@
+server:
+  port: 8000
+
+keycloak.jwk-uri: ${KEYCLOAK_JWK_URI}
